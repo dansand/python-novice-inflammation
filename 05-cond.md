@@ -239,7 +239,7 @@ and false statements. However, they aren't the only values in Python that are tr
 > using in-place operators.
 > Do you think the result is more or less readable than writing the same without in-place operators?
 
-> ## Tuples and exchanges {.challenge}
+> ## Exchanges {.challenge}
 >
 > Explain what the overall effect of this code is:
 >
